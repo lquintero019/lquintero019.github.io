@@ -24,7 +24,6 @@ git commit -m "Initial commit"
 git push -u origin master
 ```
 - Final mente
-
 `https://lquintero019.github.io`
 
 
