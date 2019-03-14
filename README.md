@@ -13,6 +13,7 @@ En el root del proyecto corre `>$ sass scss/style.scss style.css`
 # Installar el proyecto en tu maquina
 
 - Clona tu proyecto en cualquier directorio.
+
 ```
  >$ git clone https://github.com/lquintero019/lquintero019.github.io.git
 ```
